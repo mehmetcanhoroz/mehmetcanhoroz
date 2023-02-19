@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🧍 I’m @mehmetcanhoroz
-- 👀 I’m interested in golang development and game dev.
-- 🌱 I’m currently learning unreal engine 5 and trying to improve golang skills
+- 👀 I’m interested in golang development and startups.
+- 🌱 I’m currently trying to improve golang skills and getting used to java again :) 
 - 💞️ I’m looking to collaborate on any type of projects that i believe have mission
 - 📫 How to reach me @mehmetcanhoroz https://www.linkedin.com/in/mehmet-canhoroz/
 - 💬 Ask me about anything, if i know i will try to help you. otherwise, we can try to find a solution together
